@@ -96,7 +96,7 @@ body{
             }
             .div-parent1{
                 width: 258px;
-                border: 1px solid #F5F5F5;
+                border: 1px solid #cccaca;
             }
         .box1{
             display: flex;
@@ -104,9 +104,9 @@ body{
             width: 258px;
             margin-right: 20px;
             margin-bottom: 20px ;
-            border: 1px solid #F5F5F5;
+            border: 1px solid #cccaca;
         }    
-        .s-image{
+        .s-image1{
             margin-top: 30px;
             height: 150px;
             width: 90%;
@@ -119,36 +119,128 @@ body{
             font-size: 16px;
             line-height: 24px;
         }
-        /* .box2{
-            background-color: #e2e5e5;
-            display: flex;
-            height: 465px;
+        .div-parent2{
             width: 258px;
-            margin-right: 20px;
-            margin-bottom: 20px ;
-        }    
-        .box3{
-            background-color: #e2e5e5;
-            display: flex;
-            height: 465px;
-            width: 258px;
-            margin-right: 20px;
-            margin-bottom: 20px ;
-        }    
-        .box4{
-            background-color: #e2e5e5;
-            display: flex;
-            height: 465px;
-            width: 258px;
-            margin-right: 20px;
-            margin-bottom: 20px ;
-        }    
-        .box5{
-            background-color: #e2e5e5;
-            display: flex;
-            height: 465px;
-            width: 258px;
-            margin-right: 20px;
-            margin-bottom: 20px ;
-            
-        }     */
+            border: 1px solid #cccaca;
+            margin-left: 10px;
+        }
+    .box2{
+        display: flex;
+        height: 200px;
+        width: 258px;
+        margin-right: 20px;
+        margin-bottom: 20px ;
+        border: 1px solid #cccaca;
+    }    
+    .s-image2{
+        height: 200px;
+        width: 95%;
+        padding-left: 10px;
+    }
+    .box2-txt{
+        padding-left: 10px;
+        width: 258px;
+        font-family: "Amazon Ember", Arial, sans-serif;
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .div-parent3{
+        width: 258px;
+        border: 1px solid #cccaca;
+    }
+.box3{
+    display: flex;
+    height: 200px;
+    width: 258px;
+    margin-right: 20px;
+    margin-bottom: 20px ;
+    border: 1px solid #cccaca;
+}    
+.s-image3{
+    padding-top: 15px;
+    height: 175px;
+    width: 80%;
+    padding-left: 20px;
+}
+.box3-txt{
+    padding-left: 10px;
+    width: 258px;
+    font-family: "Amazon Ember", Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+}
+.div-parent4{
+    width: 258px;
+    border: 1px solid #cccaca;
+}
+.box4{
+display: flex;
+height: 200px;
+width: 258px;
+margin-right: 20px;
+margin-bottom: 20px ;
+border: 1px solid #cccaca;
+}    
+.s-image4{
+margin-top: 30px;
+height: 150px;
+width: 90%;
+padding-left: 10px;
+}
+.box4-txt{
+padding-left: 10px;
+width: 258px;
+font-family: "Amazon Ember", Arial, sans-serif;
+font-size: 16px;
+line-height: 24px;
+}
+.div-parent5{
+    width: 258px;
+    border: 1px solid #cccaca;
+}
+.box5{
+display: flex;
+height: 200px;
+width: 258px;
+margin-right: 20px;
+margin-bottom: 20px ;
+border: 1px solid #cccaca;
+}    
+.s-image5{
+margin-top: 30px;
+height: 150px;
+width: 90%;
+padding-left: 10px;
+}
+.box5-txt{
+padding-left: 10px;
+width: 258px;
+font-family: "Amazon Ember", Arial, sans-serif;
+font-size: 16px;
+line-height: 24px;
+}
+.div-parent5{
+    width: 258px;
+    border: 1px solid #cccaca;
+}
+.box5{
+display: flex;
+height: 200px;
+width: 258px;
+margin-right: 20px;
+margin-bottom: 20px ;
+border: 1px solid #cccaca;
+}    
+.s-image5{
+margin-top: 30px;
+height: 150px;
+width: 90%;
+padding-left: 10px;
+}
+.box5-txt{
+padding-left: 10px;
+width: 258px;
+font-family: "Amazon Ember", Arial, sans-serif;
+font-size: 16px;
+line-height: 24px;
+}
