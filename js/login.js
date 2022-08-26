@@ -6,6 +6,12 @@ function ink() {
   if (email.value =="nobody@gmail.com" && password.value =="nobody") {
     window.location.replace("./index.html")
   }
+  else {
+js:n= document.getElementById('n');
+        n.style.display="none"
+        n.offsetWidth
+        n.style.display="block"
+    }
 }
   
 
